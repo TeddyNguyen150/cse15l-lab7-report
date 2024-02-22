@@ -39,6 +39,7 @@ Since we ran bash test.sh once before, the command was 2 lines up in the history
 
 Step 9:
 ![image](https://github.com/TeddyNguyen150/cse15l-lab7-report/assets/156158048/18219323-d09f-41f7-af36-b47d32509d9b)
+![image](https://github.com/TeddyNguyen150/cse15l-lab7-report/assets/156158048/010f3e21-065f-47c5-b42d-d85b555d8457)
 1. Keys pressed: g i t <space> a d d <space> L i <tab> . j <tab> <enter>
 This adds ListExamples.java to files that need to be changed
 2. Keys pressed: g i t <space> c o m m i t <enter> <message> <shift> ; w q
